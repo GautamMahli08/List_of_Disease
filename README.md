@@ -1,9 +1,9 @@
 # Histology, Histopathology 
 
 
-Pap Smear image database #1 ("SIPAKMed") https://www.cse.uoi.gr/~marina/sipakmed.html
-Pap Smear image database #2 https://www.cs.uoi.gr/~marina/data_set_TITB.zip
-Pap Smear image database #3 http://mde-lab.aegean.gr/index.php/downloads
+# Pap Smear image database #1 ("SIPAKMed") https://www.cse.uoi.gr/~marina/sipakmed.html
+## Pap Smear image database #2 https://www.cs.uoi.gr/~marina/data_set_TITB.zip
+### Pap Smear image database #3 http://mde-lab.aegean.gr/index.php/downloads
 The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
 International Cancer Genome Consortium http://icgc.org, (Data portal) http://dcc.icgc.org/
 Stanford Tissue Microarray Database (TMA) http://tma.im
